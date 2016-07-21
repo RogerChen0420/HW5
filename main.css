@@ -1,0 +1,63 @@
+.bg {
+    height: 540px;
+    width: 960x;
+    background: url('../HW5/Silver-Blur-Background.jpg');
+    min-height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.plan {
+    display: inline-block;
+margin-left: 10px;
+    background: white;
+    width: 240px;
+    height: 360px;
+    margin-top: 90px;
+    text-align: center;
+}
+
+.navy-bg {
+    background: #34495E;
+    height: 180px;
+}
+
+.item {
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.tri-plan {
+    padding-top: 100px;
+    text-align: center;
+}
+
+div {
+    font-family: cursive;
+}
+
+i {
+    color: #E1E1E1;
+    vertical-align: 35px;
+}
+
+.button {
+    color: #E1E1E1;
+    border: 1px solid #E1E1E1;
+    border-radius: 5%;
+}
+
+p {
+    color: #E1E1E1;
+    
+}
+.list {
+        text-align: left;
+        font-size: 14px;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+}
